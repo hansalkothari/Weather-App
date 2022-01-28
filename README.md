@@ -1,3 +1,7 @@
+# Screenshots of this project
+![Screenshot from 2022-01-28 17-08-42](https://user-images.githubusercontent.com/59204991/151540915-dbb9a512-0966-42bb-82bb-712020b30b83.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
