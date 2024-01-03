@@ -43,7 +43,7 @@ const Form = () =>{
 
         getWeather();
         handleClick(false);
-    },[click]);
+    },[click,city,country]);
 
     const handleCityChange =(value)=>{
         setCity(value);
