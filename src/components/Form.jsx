@@ -12,7 +12,8 @@ const useStyles = makeStyles({
     } , 
     component :{
         padding : 10 , 
-        background : '#445a6f'
+        background : '#445a6f',
+        color:'#fff'
     },
     button :{
         width : 150,
